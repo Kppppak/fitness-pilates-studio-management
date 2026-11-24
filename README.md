@@ -1,4 +1,4 @@
-# fitness and pilates studio management system
+# Fitness and pilates studio management system
 A database system for managing fitness and Pilates studio  daily operations. The system will help manage clients, employees, instructors, attendance, salaries, booking and payments.
 Main features:
 - Client management (regisrtations and profile)
